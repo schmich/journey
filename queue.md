@@ -1,2 +1,3 @@
 - https://blog.ycombinator.com/advice-for-first-time-founders/
 - http://fortune.com/2016/02/24/navy-seal-secret-mental-toughness/
+- https://blog.appacademy.io/product-misjudgment-imperfect-science-understanding-peripheral-environment/
