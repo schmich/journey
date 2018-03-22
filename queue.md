@@ -3,3 +3,4 @@
 - https://blog.appacademy.io/product-misjudgment-imperfect-science-understanding-peripheral-environment/
 - https://news.ycombinator.com/item?id=16238796
 - https://www.nngroup.com/articles/authority-principle/
+- Reid Hoffman's Blitzscaling series: https://www.youtube.com/watch?v=s3RrVmv5WwA
