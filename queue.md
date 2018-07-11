@@ -4,3 +4,5 @@
 - https://news.ycombinator.com/item?id=16238796
 - https://www.nngroup.com/articles/authority-principle/
 - Reid Hoffman's Blitzscaling series: https://www.youtube.com/watch?v=s3RrVmv5WwA
+- https://blog.ycombinator.com/the-real-product-market-fit/
+- https://blog.ycombinator.com/why-does-your-company-deserve-more-money/
