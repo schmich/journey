@@ -9,3 +9,4 @@
 - https://www.joelonsoftware.com/2000/05/12/strategy-letter-i-ben-and-jerrys-vs-amazon/
 - The Great CEO Within: https://docs.google.com/document/d/1ZJZbv4J6FZ8Dnb0JuMhJxTnwl-dwqx5xl0s65DE3wO8/preview
 - https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/
+- https://segment.com/blog/goodbye-microservices/ / https://news.ycombinator.com/item?id=17499137
