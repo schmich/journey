@@ -11,3 +11,4 @@
 - https://engineering.gusto.com/how-my-role-as-cto-has-changed-as-weve-grown-to-100-engineers/
 - https://segment.com/blog/goodbye-microservices/ / https://news.ycombinator.com/item?id=17499137
 - https://www.recode.net/2018/8/29/17774878/consumer-startups-business-model-native-mvmt-tuft-needle
+- https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c
