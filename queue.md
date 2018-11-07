@@ -13,3 +13,4 @@
 - https://www.recode.net/2018/8/29/17774878/consumer-startups-business-model-native-mvmt-tuft-needle
 - https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c
 - https://medium.com/s/story/7-counterintuitive-rules-for-growing-your-business-super-fast-9dcdc2bfc649
+- https://andrewchen.co/investor-metrics-deck/
