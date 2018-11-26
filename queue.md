@@ -14,3 +14,4 @@
 - https://news.greylock.com/the-only-metric-that-matters-now-with-fancy-slides-232474cf414c
 - https://medium.com/s/story/7-counterintuitive-rules-for-growing-your-business-super-fast-9dcdc2bfc649
 - https://andrewchen.co/investor-metrics-deck/
+- https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0 (https://news.ycombinator.com/item?id=18532908)
