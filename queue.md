@@ -17,3 +17,4 @@
 - https://medium.com/the-mission/the-greatest-sales-deck-ive-ever-seen-4f4ef3391ba0 (https://news.ycombinator.com/item?id=18532908)
 - https://www.youtube.com/watch?v=0JBOSmRo8js
 - https://www.youtube.com/watch?v=pkAum45ubWc
+- https://josephwalla.com/
