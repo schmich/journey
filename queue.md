@@ -18,3 +18,4 @@
 - https://www.youtube.com/watch?v=0JBOSmRo8js
 - https://www.youtube.com/watch?v=pkAum45ubWc
 - https://josephwalla.com/
+- http://blog.samaltman.com/how-to-be-successful
